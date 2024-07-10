@@ -12,7 +12,6 @@ This Progressive Web App (PWA) Text Editor was created using starter code from m
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -32,13 +31,34 @@ This Progressive Web App (PWA) Text Editor was created using starter code from m
 
 ## Usage
 
+### To use Ivory Text Editor locally...
+
+1. **Start the server and application in develop mode:**
+
+   ```bash
+   npm run start:dev
+   ```
+
+2. **Open a browser window and navigate to:**
+   ```bash
+   localhost:3000
+   ```
+
+### Access the text editor online at:
+
+```bash
+https://ivory-text-editor.onrender.com
+```
+
+### Screenshots to demonstrate usage:
+
 ## License
 
 Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
 
-## Tests
+Contributions to Ivory Employee Tracker are welcomed and appreciated! If you encounter bugs, please report them via GitHub issues, providing detailed steps to reproduce. For suggestions or feature enhancements, open an issue to discuss ideas. When contributing code, fork the repository, create a new branch, and submit a pull request to the main branch. Ensure your changes adhere to project coding style and conventions. Please follow the project's Code of Conduct, and note that all contributions are licensed under the MIT License. Thank you for your contributions!
 
 ## Questions
 
@@ -46,4 +66,4 @@ Please reach out to me with any questions about this project via:
 
 - [GitHub](https://github.com/IvoryRines)
 
-- [Email]()
+- [Email](replays_flyers_0q@icloud.com)
