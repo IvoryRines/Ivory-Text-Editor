@@ -50,7 +50,9 @@ This Progressive Web App (PWA) Text Editor was created using starter code from m
 https://ivory-text-editor.onrender.com
 ```
 
-### Screenshots to demonstrate usage:
+### Screenshot of Application:
+
+![screenshot of running application](<assets/images/Text editor screenshot.jpg>)
 
 ## License
 
